@@ -10,6 +10,8 @@ This is one of the high school artificial intelligence projects, where [yolov5](
 ## Dataset
  If you want to download my yolov5 custom dataset, go to [releases](https://github.com/CharlesbrownK/Plastic-detection/releases) and download my dataset.
 
+## Training
+Check [my wiki](https://github.com/CharlesbrownK/Plastic-detection/wiki) how to train custom model!
 ## License
 
 © 2022, Plastic-detection. Released under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).

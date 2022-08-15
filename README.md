@@ -1,5 +1,5 @@
 # Plastic-detection
-This is one of the high school artificial intelligence projects, where yolov5 and my custom dataset were used to train a model.
+This is one of the high school artificial intelligence projects, where [yolov5](https://github.com/ultralytics/yolov5) and my custom dataset were used to train a model.
 
 ## Motivation
  Korea boasts a recycling rate well above the **OECD average recycling rate**. However, if you look at the **real recycling rate** on the other side, it is similar to the **OECD average recycling rate**. Experts say that the reason for this is the difficulty of classification due to the various types of plastics. Therefore, it is more economically beneficial to discard plastics than to recycle them. After understanding these problems, I thought, 'What if artificial intelligence classifies plastics?'
